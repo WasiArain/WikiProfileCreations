@@ -171,22 +171,22 @@ jQuery(document).ready(function() {
         }
     });
 
-    jQuery("#lpinnerform").validate({});
-    jQuery("#lp6innerform0").validate({});
-    jQuery("#lpfooterform").validate({});
+    // jQuery("#lpinnerform").validate({});
+    // jQuery("#lp6innerform0").validate({});
+    // jQuery("#lpfooterform").validate({});
 
-    jQuery("#indentform").validate({});
+    // jQuery("#indentform").validate({});
 
-    jQuery("#singValid").validate({});
+    // jQuery("#singValid").validate({});
 
-    jQuery("#popupform").validate({});
-    jQuery("#secondstep").validate({});
-    jQuery("#contactform").validate({});
-    jQuery("#footerform").validate({});
-    jQuery("#innerform").validate({});
-    jQuery("#subscribe").validate({});
-    jQuery("#bottomform").validate({});
-    jQuery("#sideForm").validate({});
+    // jQuery("#popupform").validate({});
+    // jQuery("#secondstep").validate({});
+    // jQuery("#contactform").validate({});
+    // jQuery("#footerform").validate({});
+    // jQuery("#innerform").validate({});
+    // jQuery("#subscribe").validate({});
+    // jQuery("#bottomform").validate({});
+    // jQuery("#sideForm").validate({});
 
 
     jQuery('.this-item').click(function(event) {
