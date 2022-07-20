@@ -2,122 +2,65 @@
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
 
-
-<url>
-  <loc>https://wikiprofilecreations.com/</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/index.html</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/about-us/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/services/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/why-hire/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/portfolio/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/faqs/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/contact-us/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/terms-and-condition/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/privacy-policy/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./index.html</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./about-us/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./services/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./why-hire/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./portfolio/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./faqs/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./contact-us/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./terms-and-condition/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/./privacy-policy/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../index.html</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../about-us/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../services/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../why-hire/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../portfolio/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../faqs/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../contact-us/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../terms-and-condition/</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://wikiprofilecreations.com/../privacy-policy/</loc>
-  <priority>0.80</priority>
-</url>
-
+  <url>
+       <loc>https://wikiprofilecreations.com/</loc>
+       <lastmod>2022-07-19T23:32:48+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/about-us/</loc>
+       <lastmod>2022-07-19T23:39:33+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/services/</loc>
+       <lastmod>2022-07-19T23:25:02+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/why-hire/</loc>
+       <lastmod>2022-07-19T23:40:11+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/portfolio/</loc>
+       <lastmod>2022-07-19T23:23:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/faqs/</loc>
+       <lastmod>2022-07-19T23:22:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/contact-us/</loc>
+       <lastmod>2022-07-19T23:21:31+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/terms-and-condition/</loc>
+       <lastmod>2022-07-19T23:25:42+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://wikiprofilecreations.com/privacy-policy/</loc>
+       <lastmod>2022-07-19T23:24:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  
 </urlset>

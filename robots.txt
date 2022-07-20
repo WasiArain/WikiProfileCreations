@@ -31,8 +31,33 @@ User-agent: psbot
 Disallow: 
 User-agent: yahoo-blogs/v3.9
 Disallow: 
+# disable duggmirror
+User-agent: duggmirror
+Disallow: /
+# Disallow Following crawlers access to site.
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: TurnitinBot/2.1
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /
+User-agent: SurveyBot
+Disallow: /
+User-agent: EmailWolf
+Disallow: /
+User-agent: EmailSiphon
+Disallow: /
+User-agent: EmailCollector
+Disallow: /
+User-agent: AboutUsBot
+Disallow: /
+User-agent: robtexbot
+Disallow: /
 User-agent: *
 Disallow: 
 Disallow: /assets/
 Disallow: /www.wikiprofilecreations.com_old_version/
 Sitemap: https://www.wikiprofilecreations.com/sitemap.xml
+sitemap: https://a285835.sitemaphosting6.com/4302055/sitemap.xml
